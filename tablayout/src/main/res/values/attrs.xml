@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="SemiTabLayout">
+        <attr name="indicatorColor" format="color" />
+        <attr name="rippleColor" format="color" />
+        <attr name="selectedColor" format="color" />
+        <attr name="unselectedColor" format="color" />
+        <attr name="defaultSelectedIndex" format="integer" />
+    </declare-styleable>
+</resources>
